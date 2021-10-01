@@ -1,4 +1,5 @@
 
+# build and run the demo.
 
 ```
 ### (1) clone repository 
@@ -24,3 +25,6 @@ $ npm install
 $ npm start
 
 ```
+
+# use the demo.
+At first, open developper console. Then push the button. After a while, you will get the message in developper console.
