@@ -16,10 +16,10 @@
     "npm-run-all": "^4.1.5",
     "rimraf": "^3.0.2",
     "ts-loader": "^9.2.6",
-    "tsconfig-paths": "^3.11.0",
-    "typescript": "^4.4.3",
-    "webpack": "^5.55.1",
-    "webpack-cli": "^4.8.0",
+    "tsconfig-paths": "^3.12.0",
+    "typescript": "^4.5.4",
+    "webpack": "^5.66.0",
+    "webpack-cli": "^4.9.1",
     "worker-loader": "^3.0.8"
   }
 }
